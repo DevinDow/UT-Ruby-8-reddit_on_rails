@@ -2,9 +2,9 @@
 
 ## Classes
 - User
-  - username
+  - username:uniq
   - email
-  - password
+  - password:digest
   - votes
   - comments
 
